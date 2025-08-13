@@ -1,0 +1,17 @@
+export const GlobalColor = {
+  $primaryOrange: "#F8620E",
+  $secondOrange: "#DC6700",
+  $blue: "#2F80ED",
+  $green: "#27AE60",
+  $yellow: "#FED24C",
+  $red: "#EB1D1D",
+  $blackPrimay: "#000",
+  $blackSecond: "#1D1D1D",
+  $blackTertiary: "#282828",
+  $white: "#FFF",
+  $primaryGray: "#333",
+  $secondGray: "#4F4F4F",
+  $tertiaryGray: "#828282",
+  $quaternaryGray: "#BDBDBD",
+  $quinaryGray: "#E0E0E0",
+};
